@@ -54,4 +54,18 @@ main{
 }
 body{
     background-color: #283950;
+} 
+
+p {position: relative;
+    bottom: 40px;
+    left: 420px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 150;
+    font-size: 2.0em;
+    color: antiquewhite;
+    letter-spacing: 0.05em;
+
+}
+p a:hover{
+    color:#58B9D3
 }

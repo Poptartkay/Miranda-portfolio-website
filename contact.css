@@ -42,7 +42,9 @@ nav img{
 
 }
 main{
-    font-weight: 900;
+    position: relative;
+    left: 40px;
+    font-weight: 700;
     font-size: 2.5em;
     color:#58B9D3;
     margin-inline-start: 300px;

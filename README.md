@@ -6,7 +6,7 @@
 # Languages Used
  HTML and CSS
  
- ##Relfection
+ ## Relfection
  If there was anything that I could do better on this it would be to add a hoover over my list of contact options and to properly label my works page. 
  The reason I didn't was one lack of time and two no matter how hard I tried it wouldnt allow or would mess up the images. I'm sure I'll figure out why one 
  day but until now we're keeping it like this. Other than that, I really enjoyed this challenge and the creative allotment I was given. 

@@ -16,4 +16,4 @@
  If there was anything that I could do better on this it would be to add a hoover over my list of contact options and to properly label my works page. 
  The reason I didn't was one lack of time and two no matter how hard I tried it wouldnt allow or would mess up the images. I'm sure I'll figure out why one 
  day but until now we're keeping it like this. Other than that, I really enjoyed this challenge and the creative allotment I was given. 
->>>>>>> e0bc20a04e8e97f6a81cad21afe8899354bbce1d
+![Screenshot (3)](https://user-images.githubusercontent.com/91912984/202995801-6bb232b7-cd5b-408d-9fcf-f4921f4ab4b7.png)

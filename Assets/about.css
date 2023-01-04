@@ -41,6 +41,31 @@ nav img{
 
 
 }
+@media  screen and (max-width: 700px) {
+    nav{
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    nav a {
+        float: left;
+        margin-left: 0;
+    }
+
+}
+
+@media screen and (max-width: 400px){
+    nav a{
+        text-align: center;
+        float: none;
+    }
+    nav img{
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+}
+
 main{
     position: relative;
     left: 40px;

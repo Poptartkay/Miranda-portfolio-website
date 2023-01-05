@@ -1,35 +1,52 @@
 main{
     float: left;
     margin-right: 10px;
-    margin-bottom: 5px;
+    margin-bottom: 100px;
     border: #58b9d3 2px;
     text-emphasis: none;
     font-size: 1.5em;
     font-weight: 50px;
     
 }
+h1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: antiquewhite;
+}
+a :hover{
+    color:antiquewhite
+}
 p{
-    padding-top: 60px;
+    /* padding-top: 60px; */
     margin-top: 30px;
     margin-right: 10px;
-    margin-bottom:400px;
+    margin-bottom: 600px;
     font-size:  1.5em;
     font-weight: 100;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: antiquewhite;
 
 }
-div work1{ padding-left: 40px;
 
+h2{
+    float: left;
+    color:antiquewhite;
+    padding-top: 60px;
+    padding-left: 400px;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-bottom:400px;
 }
+
 *{
     box-sizing: border-box;
 }
 .column {
     float: right;
-    padding: 10px;
-    padding-right: 65px;
-    padding-left: 100px;
+    padding: 65px;
+    padding-right: 225px;
+    padding-left: 60px;
     color: antiquewhite;
 
   }

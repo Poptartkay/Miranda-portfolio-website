@@ -42,7 +42,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ### Links
 ​
 
-- Live Site URL:
+- Live Site URL: https://poptartkay.github.io/Portfolio-Website/index.html
 
 ​
 ### Built with
@@ -69,3 +69,8 @@ how to link multiple HTML pages together/ as well as how to use flexbox in css.
 ## Author
 Kay Ford
 
+![Screenshot (3)](https://user-images.githubusercontent.com/91912984/210531824-e8154bcb-d840-4284-a2f8-ac5fb8a6e403.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/91912984/210531840-c1003ce7-f973-4916-9f11-114d6a68a2c7.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/91912984/210531852-17c5e879-87b8-4932-987f-d47e6293697c.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/91912984/210531859-4326eb41-404b-4d69-9784-00bad45cac41.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/91912984/210531865-98699f80-c2ca-4d4b-9a97-2e18bdcaa295.png)
